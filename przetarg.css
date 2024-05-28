@@ -1,0 +1,15 @@
+body {
+    font-family: 'Dont Walk Run', sans-serif;
+    background-color: black;
+    font-size:200%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px rgba(187, 179, 179, 0.5);
+}

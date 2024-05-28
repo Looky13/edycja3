@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    font-family: 'Dont Walk Run', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden; 
+}
+
+img {
+    width: 50%;
+    max-height: 100vh; 
+}
+/* https://www.dropbox.com/scl/fo/nomf7523yqglo9q2pc780/AHEvMH1MFQgeBCOkdR0z2nw?rlkey=bn9hmshmzxz3o0ii5uaaft3oy&st=1ubht4pr&dl=0 */
